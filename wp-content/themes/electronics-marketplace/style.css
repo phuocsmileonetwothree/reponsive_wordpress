@@ -1,0 +1,141 @@
+/*
+Theme Name: Electronics Marketplace
+Theme URI: https://www.buywptemplates.com/themes/free-marketplace-wordpress-theme/
+Author: Buywptemplates
+Author URI: https://www.buywptemplates.com
+Description: Electronics Marketplace is an ideal free theme for an online storefront, marketplace, supermarkets, eCommerce and fashion stores, website for shopping malls, carts, electronics product shops, digital stores, multivendor websites, and shopping stores. Its personalization options let you use it as a multipurpose theme for getting you a strong website. You will be able to get a fully responsive website that can be seen with precision on every screen. This theme is made user-friendly allowing users with or without coding skills to create their own website. It has got a beautiful banner and internal sections such as Blog, Team, Testimonial, and a lot more. Achieving better conversions is just a breeze now as you get many Call to Action Buttons (CTA) that will also guide the audience to take the next course of action. You will always get a phenomenal performance even if your website is seeing high traffic thanks to the optimized codes included in its core. You will witness huge traffic coming to your website as this theme is made SEO-friendly. It delivers faster page load time and its Bootstrap framework makes it robust. WPML and RTL compliance of this theme makes your website translation ready and most importantly, you will get to use the various social media icons for effectively using social media in promoting your products. View full demo here: https://www.buywptemplates.com/electronics-marketplace-pro/
+Tested up to: 6.0
+Requires PHP: 7.2
+Version: 0.1.1
+license: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: electronics-marketplace
+Template: ecommerce-solution
+Tags: left-sidebar, right-sidebar, one-column, two-columns, three-columns, four-columns, grid-layout, flexible-header, wide-blocks, block-styles, custom-background, custom-logo, custom-menu, custom-header, editor-style, featured-images, footer-widgets, sticky-post, full-width-template, theme-options, threaded-comments, post-formats, translation-ready, rtl-language-support, blog, e-commerce, food-and-drink
+*/
+
+.topbar a.call1, .topbar span {
+	background-color: transparent;
+	color: #FFF;
+}
+.topbar, span.cart-value, .login-box a:hover, #slider .carousel-control-prev-icon:hover, #slider .carousel-control-next-icon:hover, .more-btn a:hover, .woocommerce span.onsale, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .pagination .current, .pagination a:hover, #comments a.comment-reply-link, #comments input[type="submit"].submit, .postbtn a:hover, nav.woocommerce-MyAccount-navigation ul li, .page-content .read-moresec a.button, input[type="submit"] {
+	background: #233A95;
+}
+.logo a, .logo p a, p.logged-in-as a, .nav-links a {
+	color: #233A95;
+}
+.page-content .read-moresec a.button {
+	border-color: #233A95;
+}
+.copyright-wrapper a, span.cart-value, .login-box a:hover, #slider .carousel-control-prev-icon:hover, #slider .carousel-control-next-icon:hover, .more-btn a:hover, .woocommerce span.onsale, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .copyright-wrapper p, .pagination .current, .pagination a:hover, #comments a.comment-reply-link, #comments input[type="submit"].submit, .postbtn a:hover, .postbtn a:hover i, nav.woocommerce-MyAccount-navigation ul li a, .page-content .read-moresec a.button, input[type="submit"] {
+	color: #fff;
+}
+.login-box a:hover i {
+	color: #000;
+}
+#sidebar input[type="submit"]:hover, .login-box i, .cat-content, #scrollbutton i, .footer-wp h3:after, .footer-wp input[type="submit"], .footer-wp button, #sidebar button, .footer-wp .tagcloud a:hover, .copyright-wrapper, .blog-section h2:after, #sidebar h3:after, #sidebar .tagcloud a:hover, .tags a:hover, .nav-next a:hover, .nav-previous a:hover, .widget_calendar tbody a, .primary-navigation ul ul a:hover, .primary-navigation ul ul a:focus {
+	background: #2BBEF9;
+	color: #fff;
+}
+.footer-wp .textwidget p a, #sidebar .textwidget p a:hover, .footer-wp h3, .footer-wp li a:hover, .footer-wp a.rsswidget, .blog-section h2 a:hover, .metabox a:hover {
+	color: #2BBEF9;
+}
+#scrollbutton i, #blog_sec .sticky {
+	border-color: #2BBEF9;
+}
+#scrollbutton i {
+	box-shadow: 0px 0px 0px #233A95, 0px 5px 0px 0px #233A95, 0px 5px 4px #000;
+}
+.cat-content {
+	font-family: 'Fjalla One', sans-serif;
+}
+.menu-header {
+	background: transparent;
+	border-top: 1px solid #E3E4E6;
+	border-bottom: 1px solid #E3E4E6;
+}
+.menu-header .primary-navigation ul li a {
+	padding: 0 12px;
+	border-right-color: #E3E4E6;
+  	font-family: 'Fjalla One', sans-serif;
+  	font-size: 15px;
+  	font-weight: 500;
+}
+.menu-header .primary-navigation ul ul li a {
+	padding: 15px;
+}
+.primary-navigation ul ul {
+	top: 32px;
+}
+#slider .carousel-content {
+	border: 0;
+}
+#slider .carousel-control-prev-icon, #slider .carousel-control-next-icon {
+	padding: 13px 20px;
+}
+.products li, .woocommerce ul.products li.product .woocommerce-loop-product__title {
+	text-align: left;
+	padding: 10px 0;
+}
+.woocommerce .products .star-rating {
+	margin: 0 0 10px;
+}
+.woocommerce .products a.button.product_type_simple.add_to_cart_button {
+	display: none;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+	padding: 0 !important;
+	border: 0;
+	box-shadow: none;
+}
+#new-collection {
+	text-align: center;
+}
+#new-collection strong {
+	position: relative;
+	display: inline-block;
+}
+#new-collection strong:after, #new-collection strong:before {
+	content: '';
+	background: #233A95;
+	width: 80px;
+	height: 2px;
+	border: 0;
+	position: absolute;
+	left: -110px;
+	top: 50%!important;
+	transform: translateY(-50%);
+}
+#new-collection strong:after {
+	left: auto;
+	right: -110px;
+}
+.woocommerce ul.products li.product .price {
+	font-family: 'Roboto', sans-serif;
+}
+.entry-date:hover i, .entry-date:hover a, .entry-author:hover i, .entry-author:hover a {
+	color: #2BBEF9 !important;
+}
+
+@media screen and (max-width: 1000px) {
+	.menu-header .primary-navigation ul li a {
+		padding: 15px;
+	}
+	.topbar .menu-brand.resp-menu span, .topbar .menu-brand.resp-menu a.call1 {
+		color: #000;
+	}
+	.search-cat-box button[type="submit"] {
+		padding: 8px 22px;
+	}
+}
+@media screen and (max-width: 720px) {
+	#slider .carousel-control-prev-icon, #slider .carousel-control-next-icon {
+		padding: 9px 15px;
+	}
+	#new-collection strong:after, #new-collection strong:before {
+		display: none;
+	}
+	.product-cat {
+		width: 100%;
+	}
+}

@@ -1,0 +1,12 @@
+2022-06-25T08:40:51+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php:118) in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php on line 118
+
+2022-06-25T08:41:19+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php:118) in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php on line 118
+
+2022-06-25T08:41:46+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php:118) in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php on line 118
+
+2022-06-25T08:43:02+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php:118) in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php on line 118
+
+2022-06-25T08:53:10+00:00 CRITICAL Cannot redeclare woocommerce_header_add_to_cart_fragment() (previously declared in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php:118) in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php on line 118
+
+2022-06-25T09:00:58+00:00 CRITICAL syntax error, unexpected 'to' (T_STRING), expecting ')' in C:\xampp\htdocs\wordpress-6.0\wordpress\wp-content\themes\storely\woocommerce\cart\mini-cart.php on line 118
+
